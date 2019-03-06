@@ -4,3 +4,5 @@ first this branch commitAAA(Reset2)
 First b11 commitAAA
 Second b11 commitAAA
 smth
+amend
+amend2
